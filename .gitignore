@@ -1,0 +1,7 @@
+Makefile.in
+aclocal.m4
+configure
+doc/cln.info
+/autoconf/
+/autom4te.cache/
+/m4/
