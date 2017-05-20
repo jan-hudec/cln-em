@@ -946,9 +946,9 @@ vector/output/cl_GV_number_aprint.cc \
 vector/output/cl_SV_aprint.cc \
 vector/output/cl_SV_number_aprint.cc
 
-nodist_libcln_la_SOURCES = \
-base/digitseq/cl_asm.S \
-polynomial/elem/cl_asm_GF2.S
+#nodist_libcln_la_SOURCES = \
+#base/digitseq/cl_asm.S \
+#polynomial/elem/cl_asm_GF2.S
 
 
 ASMFILES = \
