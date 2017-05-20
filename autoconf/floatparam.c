@@ -114,6 +114,6 @@ int main()
 #endif
   flipped_double();
 
-  if (ferror(stdout) || fclose(stdout)) return 1;
+  //if (ferror(stdout) || fclose(stdout)) return 1;
   return 0;
 }

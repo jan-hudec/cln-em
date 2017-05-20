@@ -578,6 +578,6 @@ int main()
   main8();
   main9();
   main10();
-  if (ferror(stdout) || fclose(stdout)) return 1;
+  //if (ferror(stdout) || fclose(stdout)) return 1;
   return 0;
 }
